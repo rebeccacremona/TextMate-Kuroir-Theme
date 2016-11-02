@@ -964,6 +964,40 @@
         <string>#565656</string>
       </dict>
     </dict>
+    <!-- Anaconda -->
+    <dict>
+      <key>name</key>
+      <string>anaconda Error Underline</string>
+      <key>scope</key>
+      <string>anaconda.underline.illegal</string>
+      <key>settings</key>
+      <dict>
+          <key>background</key>
+          <string>#FF0000</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>anaconda Warning Underline</string>
+      <key>scope</key>
+      <string>anaconda.underline.warning</string>
+      <key>settings</key>
+      <dict>
+          <key>background</key>
+          <string>#FF0000</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>anaconda Violation Underline</string>
+      <key>scope</key>
+      <string>anaconda.underline.violation</string>
+      <key>settings</key>
+      <dict>
+          <key>background</key>
+          <string>#FF0000</string>
+      </dict>
+    </dict>
   </array>
   <key>uuid</key>
   <string>467560D0-6ACE-4409-82FD-4791420837AC</string>
